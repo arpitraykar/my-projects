@@ -12,5 +12,6 @@
 - [Pigmy Agent](https://play.google.com/store/apps/details?id=link.thewebpeople.pigmyAgent)
 - [Pigmy User](https://play.google.com/store/apps/details?id=pigmy.thewebpeople.link)
 - [Nimble Growth](https://play.google.com/store/apps/details?id=in.thewebpeople)
-- [Cricket Ireland]()
+- [Cricket Ireland](https://cricketireland.ie/)
+- [Smarty Serve]()
 
